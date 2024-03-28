@@ -1,5 +1,5 @@
 ## Hi there👋
-** 🔭 I’m currently working on: Leveraging AI and machine learning techniques to solve complex problems in data science, with a focus on predictive analytics and pattern recognition.
+ 🔭 I’m currently working on: Leveraging AI and machine learning techniques to solve complex problems in data science, with a focus on predictive analytics and pattern recognition.
 
 🌱 I’m currently learning: Exploring advanced machine learning techniques such as deep learning and reinforcement learning to stay ahead in this rapidly evolving field. Always on the lookout for new methodologies and algorithms to enhance my skill set.
 
