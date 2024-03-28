@@ -11,7 +11,7 @@
 
 📫 How to reach me: Feel free to connect with me with email: [santhud2005@gmail.com]. I'm always open to networking and discussing exciting opportunities!
 
-😄 Pronouns: He/Him
+😄 Pronouns: She/Her
 
 ⚡ Fun fact: I once built a recommendation system for personalized book suggestions using collaborative filtering. It was a fascinating project that combined my love for data science with my passion for literature!
 
