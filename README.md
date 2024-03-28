@@ -8,7 +8,7 @@
 
 💬 Ask me about: Data visualization techniques, best practices in data preprocessing, and strategies for effectively communicating insights from complex datasets. Happy to share my knowledge and experiences in these areas!
 
-📫 How to reach me: Feel free to connect with me on LinkedIn [Your LinkedIn Profile URL]. I'm always open to networking and discussing exciting opportunities!
+📫 How to reach me: Feel free to connect with me with email: [santhud2005@gmail.com]. I'm always open to networking and discussing exciting opportunities!
 
 😄 Pronouns: He/Him
 
